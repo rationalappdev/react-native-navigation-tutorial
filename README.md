@@ -8,4 +8,4 @@ Read the full tutorial here http://rationalappdev.com/cross-platform-navigation-
 
 ## Demo
 
-<img src="https://github.com/rationalappdev/react-native-navigation-tutorial/blob/master/demo.gif" alt="Demo" width="640" />
+<img src="https://github.com/rationalappdev/react-native-navigation-tutorial/blob/master/demo.gif" alt="Demo" width="320" />
